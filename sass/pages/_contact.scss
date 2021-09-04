@@ -1,0 +1,45 @@
+.contact {
+	height: 100%;
+	overflow: hidden;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	justify-content: center;
+	background: url(../img/wallpaper.jpg) center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	h2 {
+		font-size: 3rem;
+		margin-bottom: 2rem;
+		color: $secondary-color;
+	}
+
+	&__list {
+		display: grid;
+		grid-template-columns: 1fr;
+		grid-gap: 2rem;
+		font-size: 1.5rem;
+
+		a + a {
+			display: none;
+		}
+	}
+
+	&__phone {
+		a:nth-child(2) {
+			margin-left: 8px;
+		}
+	}
+
+	&__address {
+		a:nth-child(2) {
+			margin-left: 6px;
+		}
+	}
+
+	.social-icons {
+		position: initial;
+		margin-top: 2rem;
+	}
+}
