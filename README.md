@@ -1,6 +1,6 @@
-# Porfolio
+# Portfolio
 
-A fortfolio using sass that I learn from freeCodeCamp
+A fortfolio using sass that I learned from freeCodeCamp
 
 ## Demo
 
