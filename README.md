@@ -2,7 +2,7 @@
 
 A fortfolio using sass that I learn from freeCodeCamp
 
-## Link demo
+## Demo
 
 https://giatrung2012.github.io/portfolio/
 
@@ -14,4 +14,4 @@ https://giatrung2012.github.io/portfolio/
 
 ![App Screenshot](https://i.imgur.com/A7JUnlL.png)
 
-![App Screenshot](https://i.imgur.com/DjuhMZG.png)
+![App Screenshot](https://i.imgur.com/u0tpSPQ.png)
