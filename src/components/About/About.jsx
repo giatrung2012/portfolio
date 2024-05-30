@@ -26,20 +26,18 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Tech Stacks</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                HTML, CSS, JavaScript, ReactJS, Vite, SQL, C#, WinForms, C++
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Tools</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                Git, Github, Terminal, Package Manager, Cloudflare, Microsoft E5 Developer
               </p>
             </div>
           </li>

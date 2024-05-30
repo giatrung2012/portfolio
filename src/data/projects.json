@@ -1,26 +1,10 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Sales Management",
+    "imageSrc": "projects/sales-management.jpg",
+    "description": "Developed a desktop application for managing invoices and customer records using C# and WinForms",
+    "skills": ["C#", "WinForms", "SQL"],
+    "demo": "https://youtu.be/WvMB75BGDYQ?si=4-6KkkzV14m6UX2k",
+    "source": "https://github.com/giatrung2012/SalesManagement"
   }
 ]
