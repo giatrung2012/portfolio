@@ -2,9 +2,17 @@
   {
     "title": "Sales Management",
     "imageSrc": "projects/sales-management.jpg",
-    "description": "Developed a desktop application for managing invoices and customer records using C# and WinForms",
+    "description": "A desktop application for managing invoices and customer records",
     "skills": ["C#", "WinForms", "SQL"],
     "demo": "https://youtu.be/WvMB75BGDYQ?si=4-6KkkzV14m6UX2k",
     "source": "https://github.com/giatrung2012/SalesManagement"
+  },
+  {
+    "title": "Music Player",
+    "imageSrc": "projects/music-player.png",
+    "description": "A simple music player",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://giatrung2012.github.io/music-player/",
+    "source": "https://github.com/giatrung2012/music-player"
   }
 ]

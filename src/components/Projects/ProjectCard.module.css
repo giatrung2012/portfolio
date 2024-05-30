@@ -12,6 +12,7 @@
 
 .image {
   margin-bottom: 26px;
+  min-height: 167px;
 }
 
 .title {
@@ -23,6 +24,7 @@
   margin-top: 6px;
   font-size: 25px;
   font-weight: 400;
+  min-height: 96px;
 }
 
 .skills {
